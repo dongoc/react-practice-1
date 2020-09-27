@@ -22,9 +22,10 @@ const React = require('react');
 ### Three Tenets of Component
 
 #### 1) Component Nesting
-
 #### 2) Resuability
-
 #### 3) Component Configuration
 
-![](../note-images/3-01-01-component.png)
+![](../note-images/3-01-1-component.png)
+
+### Re-usable Component
+![](../note-images/3-08-1-reusableComponent.png)
