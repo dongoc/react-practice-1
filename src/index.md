@@ -29,3 +29,6 @@ const React = require('react');
 
 ### Re-usable Component
 ![](../note-images/3-08-1-reusableComponent.png)
+
+### import-export component
+![](../note-images/3-09-1-import-export.png)
