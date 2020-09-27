@@ -1,8 +1,6 @@
 import React from 'react'
 
 const ApprovalCard = (props) => {
-  console.log(props) // {children: {…}}
-  console.log(props.children) // {{$$typeof: Symbol(react.element), key: null, ref: null, props: {…}, type: ƒ, …}
   return (
     <div className="ui card">
       <div className="content">
