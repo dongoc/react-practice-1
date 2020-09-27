@@ -32,3 +32,13 @@ const React = require('react');
 
 ### import-export component
 ![](../note-images/3-09-1-import-export.png)
+
+## Prop System 
+: parent component -- passing data --> child component
+- Goals?
+  - to customize
+  - configure a child component
+
+![](../note-images/3-10-1-prop.png)
+1. providing information from parent component
+2. consuming information in child component
