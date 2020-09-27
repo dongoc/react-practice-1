@@ -16,4 +16,15 @@ const React = require('react');
 ## 2. Component?
 1. show HTML using JSX
 2. handle feedback using Event Handler
+
 ![](../note-images/2-11-1-component.png)
+
+### Three Tenets of Component
+
+#### 1) Component Nesting
+
+#### 2) Resuability
+
+#### 3) Component Configuration
+
+![](../note-images/3-01-01-component.png)
